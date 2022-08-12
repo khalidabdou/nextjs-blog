@@ -1,6 +1,6 @@
 import SEO from './components/SEO'
 import queries from '../services/queries';
-import Blog from './components/Blog'
+import Blog from './components/blog'
 import Link from 'next/link'
 
 import { useEffect } from 'react';
